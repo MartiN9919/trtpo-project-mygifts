@@ -1,2 +1,4 @@
 # trtpo-project-mygifts
-My project for Theory of Developing and Testing Software course
+# Органайзер идей для подарков
+Язык реализации: Kotlin
+# Содержание
