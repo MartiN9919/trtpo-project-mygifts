@@ -1,6 +1,6 @@
 ## Варианты использования
 
-![(pict)](E:\nastik\учёбка\5 сем\тритпо проект\Documents\Diagrams\UseCase\usecase.PNG)
+![(pict)](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/UseCase/usecase.PNG)
 
 ## Содержание
 
