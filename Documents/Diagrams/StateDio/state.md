@@ -6,16 +6,16 @@
 2. [Создание профиля контакта](#2)
 3. [Создание карточки подарка](#3)
 
-### 1 Создание карточки задачи <a name="1"></a>
+### 1 Запуск приложения <a name="1"></a>
 
-![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/SequenceDio/1.PNG)
+![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/StateDio/start.PNG)
 
-### 2 Редактирование карточки задачи <a name="2"></a>
+### 2 Создание профиля контакта <a name="2"></a>
 
-![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/SequenceDio/2.PNG)
+![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/StateDio/contact.PNG)
 
-### 3 Вывод списка контактов <a name="3"></a>
+### 3 Создание карточки подарка <a name="3"></a>
 
-![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/SequenceDio/3.PNG)
+![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/StateDio/gift.png)
 
 
