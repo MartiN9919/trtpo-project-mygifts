@@ -1,5 +1,5 @@
 ## Диаграмма развёртывания
 
-![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/SequenceDio/1.PNG)
+![](https://github.com/nastazys/trtpo-project-mygifts/blob/master/Documents/Diagrams/DeploymentDio/dio.png?raw=true)
 
 
