@@ -9,7 +9,6 @@ import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.mygifts.R
 import com.example.mygifts.model.Contact
-import com.example.mygifts.model.Gift
 
 class ContactAdapter(
     context: Context?,
@@ -32,9 +31,9 @@ class ContactAdapter(
         holder.bind(getItem(position))
     }
 
-    override fun getItemCount(): Int = gifts.size
+    override fun getItemCount(): Int = contacts.size
 
-    private fun getItem(position: Int): Gift = gifts[position]
+    private fun getItem(position: Int): Contact = contacts[position]
 
     class ViewHolder(
         itemView: View,
@@ -53,7 +52,7 @@ class ContactAdapter(
             }
         }
 
-        fun bind(gift: Gift) {
+        fun bind(contact: Contact) {
             /*image.load(gift.image) {
                 transformations(CircleCropTransformation())
             }
