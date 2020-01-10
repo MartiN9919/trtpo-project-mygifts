@@ -13,3 +13,5 @@
 [Code](https://github.com/nastazys/trtpo-project-mygifts/tree/master/MyGifts)
 
 [Code review](https://github.com/Khrifon/TRTPO_Project/issues/1)
+
+[Helping Vlad to find analog :)](https://github.com/VRublevski/tritpo-project-courier-exchange/issues/1)
